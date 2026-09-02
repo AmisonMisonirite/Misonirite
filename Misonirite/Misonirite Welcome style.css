@@ -1,6 +1,8 @@
 body {
   background-image: url("../Image/Main_Background.png");
   background-repeat: repeat;
+  width: 50%;
+  height: 50%;
 }
 
 .Main-container {

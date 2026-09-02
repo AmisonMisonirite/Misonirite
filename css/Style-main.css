@@ -1,6 +1,10 @@
 body {
   background-image: url("../Image/Main_Background.png");
+  background-size: 5%;
   background-repeat: repeat;
+}
+.navbar {
+  padding: 0px;
 }
 form {
     border: 3px solid white;
@@ -11,7 +15,7 @@ text {
   /* Full-width inputs */
   input[type=text], input[type=password] {
     width: 100%;
-    padding: 12px 20px;
+    padding: 12px 18px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid blue;
